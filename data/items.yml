@@ -1,0 +1,32 @@
+title : "teaching and more"
+content: |
+  
+style: "style1 big onscroll-fade-in"
+items:
+
+  # feature item loop
+  - name : "Eco-hydrology and Earth Systems"
+    content : "My teaching experience spans topics from introductory environmental science, earth systems science, evolutionary biology, GIS, and statistics."
+    style : "solid style2 major fa-leaf"
+
+  # feature item loop
+  - name : "Environmental modeling"
+    content : "With extensive research experience in eco-hydrologic land surface modeling, I aim to pass on these methods to research mentees and in applicable classes. This includes topics on uncertainty, sensitivity analysis, and model calibration and validation."
+    style : "solid style2 major fa-desktop"
+
+  # feature item loop
+  - name : "Mentorship"
+    content : "I work with STEM students at Cal Poly Humboldt through the Louis Stokes Alliance for Minority Participation. I have worked with individual student summer research projects about urban forestry through LSAMP and the Bren Environmental Leaders program."
+    style : "solid style2 major fa-paper-plane"
+    
+  # feature item loop
+  - name : "Data science"
+    content : "Mainly in R for now, I have taught introductions to data visualization and am Carpentries certified. My goal is to make data science education more accessible and inclusive by expanding more generally to teach about data before sitting at a computer."
+    style : "solid style2 major fa-chart-bar"
+    
+
+    
+ 
+    
+
+    
