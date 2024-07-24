@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "Dr. RT"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -13,11 +13,11 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+# baseURL = "/"
 publishDir = "public"
 
 # Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+baseURL = "https://rachtorr.github.io"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 ## -----------------------------------------------
@@ -32,17 +32,15 @@ disableKinds = ["taxonomy", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
-  logo = "images/banner.jpg"
+  description = "Dr. RT"
+  logo = "images/outdoorpic.jpg"
   favicon = true
 
 [Params.social]
-  github = "https://github.com/caressofsteel/"
-  twitter = "https://twitter.com/caressofsteel_"
-  email = "caressofsteel@protonmail.com"
+  github = "https://github.com/rachtorr/"
+  email = "rachel.torres@humboldt.edu"
   instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
-  telegram = "https://telegram.org"
+  linkedin = "https://linkedin.com/in/rachtorr815"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]

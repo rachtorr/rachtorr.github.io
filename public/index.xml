@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. RT</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Dr. RT</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>{year}</copyright>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitae</title>
-      <link>//localhost:1313/cv/</link>
+      <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/cv/</guid>
+      <guid>http://localhost:1313/cv/</guid>
       <description>Rachel D. Torres Arcata, CA \&#xA;EDUCATION Ph.D. in Environmental Science and Management (September 2017 – December 2023)&#xA;Bren School of Environmental Science &amp;amp; Management, University of California, Santa Barbara (UCSB) - Santa Barbara, CA&#xA;Adviser: Dr. Naomi Tague&#xA;Thesis: Urban tree drought resilience and outdoor water conservation in a Mediterranean climate: insights from an ecohydrologic model&#xA;Certificate of College and University Teaching Bachelor of Science in Physics, Summa Cum Laude (August 2013 - December 2016)</description>
     </item>
   </channel>
