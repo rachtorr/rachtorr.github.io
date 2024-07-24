@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Dr. Rachel Torres"
+subtitle: |
+  About me
+content : |
+  Welcome! I am Rachel, and I recently became Dr. Torres. I am currently a postdoctoral researcher with a multi-institutional network working to develop earth and environmental data science curriculum with an Indigenous methods lens. I work in <a target="_blank" href="https://inrsep.humboldt.edu/">INRSEP+ Diversity in STEM</a> at Cal-Poly Humboldt in collaboration with the <a target="_black" href="https://ecoforecast.org/">Ecological Forecasting Initiative</a>
+button:
+  label : "CV"
+  link : "#contact-cv"
+
+image : "images/IMG_0187.jpg"

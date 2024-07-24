@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-right onscroll-image-fade-in color7"
+id: "contact-cv"
+title : "Contact me"
+content: |
+  <ul class="icons">
+            <li><a target="_blank" href="https://github.com/rachtorr" class="icon brands style2 fa-github"><span class="label">Github</span></a> Code</li>
+            <li><a target="_blank" href="https://www.linkedin.com/in/rachtorr815" class="icon brands style2 fa-linkedin"><span class="label">LinkedIn</span></a> Connect</li>
+            <li><a target="_blank" href="mailto:rachel.torres@humboldt.edu" class="fav icon style2 fa-envelope"><span class="label">Email</span></a> Email</li>
+  </ul>
+   
+image: "images/outdoorpic.jpg"
+
