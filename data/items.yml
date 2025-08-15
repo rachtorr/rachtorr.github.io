@@ -6,7 +6,7 @@ items:
 
   # feature item loop
   - name : "Eco-hydrology and Earth Systems"
-    content : "My teaching experience spans topics from introductory environmental science, earth systems science, evolutionary biology, GIS, and statistics."
+    content : "My teaching experience spans topics from introductory environmental science, earth systems science, evolutionary biology, GIS, statistics, and data science in R."
     style : "solid style2 major fa-leaf"
 
   # feature item loop
@@ -16,12 +16,12 @@ items:
 
   # feature item loop
   - name : "Mentorship"
-    content : "I work with STEM students at Cal Poly Humboldt through the Louis Stokes Alliance for Minority Participation. I have worked with individual student summer research projects through LSAMP and the Bren Environmental Leaders program."
+    content : "I work with STEM students at Cal Poly Humboldt through the CSU-STEM Pathways Alliance. I have worked with individual student summer research projects in programs including McNair Scholars and Bren Environmental Leaders."
     style : "solid style2 major fa-paper-plane"
     
   # feature item loop
   - name : "Data science"
-    content : "Mainly in R for now, I have taught introduction to data visualization and am Carpentries certified. My goal is to make data science education more accessible and inclusive by using relevant real-world examples and discussions."
+    content : "I have taught introduction to data visualization and am Carpentries certified. My goal is to make data science education more accessible and inclusive by using relevant real-world examples and discussions."
     style : "solid style2 major fa-chart-bar"
     
 
